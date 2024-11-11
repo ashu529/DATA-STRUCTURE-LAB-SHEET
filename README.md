@@ -1,1 +1,4 @@
 # DATA-STRUCTURE-LAB-SHEET
+Summary A number of lab sheets and sample solutions for a course on data structures are available in this repository. Through actual programming activities on fundamental data structure ideas, implementations, and analysis, each lab sheet aids students in solidifying their theoretical understanding.
+
+Lab Subjects Arrays: both static and dynamic arrays, as well as fundamental functions like traversal, insertion, and deletion. Linked Lists: fundamental CRUD operations for singly, doubly, and circular linked lists. Stacks and Queues: Using arrays and linked lists to implement stacks and queues. Binary trees, binary search trees, and tree traversal techniques (in order, preorder, and postorder) are examples of trees. Graphs: shortest path algorithms, BFS, DFS, and graph representations. Algorithms for sorting and searching include binary search, bubble sort, merge sort, quicksort, and others.
